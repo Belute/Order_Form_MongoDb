@@ -30,7 +30,9 @@ Justinas: [Github](https://github.com/Belute)
 
 - In frontend terminal type: npm run start
 
-- Open MongoDb and connect to OrderManagement database
+- Open MongoDb, create database OrderManagement
+
+- Create orders and products inside OrderManagement
 
 
 
