@@ -36,7 +36,7 @@ Justinas: [Github](https://github.com/Belute)
 
 
 
-##### How To Use
+##### Code Sample
 
 ```css
 .container {
